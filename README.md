@@ -1,7 +1,6 @@
 # In-Memory Firestore Mock for Jest
 
-[![NPM Version](https://img.shields.io/npm/v/in-memory-firestore-mock.svg)](https://www.npmjs.com/package/in-memory-firestore-mock)
-[![Build Status](https://img.shields.io/travis/com/your-username/in-memory-firestore-mock.svg)](https://travis-ci.com/your-username/in-memory-firestore-mock)
+[![NPM Version](https://img.shields.io/npm/v/in-memory-firestore-mock.svg)](https://www.npmjs.com/package/firestore-test-utils)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight, zero-dependency, in-memory mock of the Firebase Admin Firestore SDK for Jest. Designed to make testing your Firestore-dependent backend logic fast, reliable, and easy, without needing a live database connection or the Firebase emulators.
