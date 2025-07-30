@@ -1,6 +1,6 @@
 {
   "name": "firestore-test-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Firestore Jest testing utilities for mocking Firebase Firestore in unit tests.",
   "main": "dist/firestore-test-utils.js",
   "types": "dist/firestore-test-utils.d.ts",
