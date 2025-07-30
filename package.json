@@ -1,0 +1,34 @@
+{
+  "name": "firestore-test-utils",
+  "version": "1.0.0",
+  "description": "Firestore Jest testing utilities for mocking Firebase Firestore in unit tests.",
+  "main": "dist/firestore-test-utils.js",
+  "types": "dist/firestore-test-utils.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electrical/firestore-test-utils.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "jest",
+    "mock",
+    "unit-test"
+  ],
+  "author": "Richard Pijnenburg",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^11.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.0.0",
+    "date-fns": "^4.1.0",
+    "@types/jest": "^30.0.0"
+  }
+}
